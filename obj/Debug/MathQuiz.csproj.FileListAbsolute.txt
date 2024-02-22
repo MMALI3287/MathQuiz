@@ -1,0 +1,10 @@
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\bin\Debug\MathQuiz.exe.config
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\bin\Debug\MathQuiz.exe
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\bin\Debug\MathQuiz.pdb
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\obj\Debug\MathQuiz.exe
+F:\Personal\University\3.2\CSE3200\Assignments\MathQuiz\obj\Debug\MathQuiz.pdb
